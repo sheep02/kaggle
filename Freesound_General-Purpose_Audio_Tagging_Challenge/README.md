@@ -1,5 +1,5 @@
 # Freesound General-Purpose Audio Tagging Challenge
-　およそ8万件の教師データを用いて分類する。ラベルは41種類。
+　およそ9000件の教師データを用いて分類する。ラベルは41種類。
 
 ## Description
 ### 1回目）画像に変換
